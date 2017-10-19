@@ -15,7 +15,7 @@
         <%
             String moji="A";
             for(int i=0;i<30;i++){
-                out.print("A");
+                out.print(moji);
             }
             
             %>
